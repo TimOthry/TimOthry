@@ -8,7 +8,7 @@
 I'm currently a Computer Science student studying in the UK, my focus is on full-stack development with a focus on Java and Javascript. I like working on various coding projects as well as creative works with 3d modelling on Blender.
 
 # Tech Stack:
-**Languages:**
+**Languages:**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=F7DF1E)
