@@ -1,5 +1,6 @@
 # Welcome to my profile! I'm Tim 👋
-<img width="3400" height="920" alt="github-banner" src="https://github.com/user-attachments/assets/7cd89b9f-e386-46ce-9c7d-1229aebf5837" />
+![alt text](https://github.com/TimOthry/TimOthry/blob/main/timothry-banner.png "Banner")
+
 
 
 
