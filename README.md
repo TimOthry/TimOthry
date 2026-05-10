@@ -5,7 +5,7 @@
 
 
 # About Me:
-I'm currently a Computer Science student studying in the UK, my focus is on full-stack development with a focus on Java and Javascript. I like working on various coding projects as well as creative works with 3d modelling on Blender.
+I'm currently a Computer Science student studying in the UK. My focus is on full-stack development with my main languages being Java and TypeScript. I like working on various coding projects as well as creative works with 3d modelling on Blender.
 
 # Tech Stack:
 **Languages:**  
@@ -21,7 +21,7 @@ I'm currently a Computer Science student studying in the UK, my focus is on full
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
 
 **Dev Tools:**  
